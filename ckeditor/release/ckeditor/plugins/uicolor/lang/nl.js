@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("uicolor","nl",{title:"UI Kleurenkiezer",options:"Kleurinstellingen",highlight:"Highlight",selected:"Geselecteerde kleur",predefined:"Voorgedefinieerde kleurensets",config:"Plak deze tekst in jouw config.js bestand"});
